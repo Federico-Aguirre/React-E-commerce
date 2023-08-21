@@ -1,0 +1,94 @@
+[
+    {
+        "id": 7,
+        "articleId": 4,
+        "name": "Van Heusen Flex Stretch Suit Jacket",
+        "price": 50.00,
+        "color": "Black",
+        "imgUrl": "/imgs/Jacket2/Jacket2-1a.jpg",
+        "principalArticleImage": "yes",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ]
+    },
+    {
+        "id": 8,
+        "articleId": 4,
+        "name": "Van Heusen Flex Stretch Suit Jacket",
+        "price": 50.00,
+        "color": "Black",
+        "imgUrl": "/imgs/Jacket2/Jacket2-2a.jpg",
+        "principalArticleImage": "no",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ]
+    },
+    {
+        "id": 9,
+        "articleId": 5,
+        "name": "Van Heusen Flex Stretch Suit Jacket",
+        "price": 50.00,
+        "color": "Oxford Grey",
+        "imgUrl": "/imgs/Jacket2/Jacket2-1b.jpg",
+        "principalArticleImage": "yes",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XLL"
+        ]
+    },
+    {
+        "id": 10,
+        "articleId": 5,
+        "name": "Van Heusen Flex Stretch Suit Jacket",
+        "price": 50.00,
+        "color": "Oxford Grey",
+        "imgUrl": "/imgs/Jacket2/Jacket2-2b.jpg",
+        "principalArticleImage": "no",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XLL"
+        ]
+    },
+    {
+        "id": 11,
+        "articleId": 6,
+        "name": "Van Heusen Flex Stretch Suit Jacket",
+        "price": 50.00,
+        "color": "Blue Bank",
+        "imgUrl": "/imgs/Jacket2/Jacket2-1c.jpg",
+        "principalArticleImage": "yes",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ]
+    },
+    {
+        "id": 12,
+        "articleId": 6,
+        "name": "Van Heusen Flex Stretch Suit Jacket",
+        "price": 50.00,
+        "color": "Blue Bank",
+        "imgUrl": "/imgs/Jacket2/Jacket2-2c.jpg",
+        "principalArticleImage": "no",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ]
+    }
+]

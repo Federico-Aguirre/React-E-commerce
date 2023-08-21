@@ -1,0 +1,334 @@
+[
+  {
+    "id": 1,
+    "articleId": 1,
+    "name": "Columbia Glennaker - Waterproof jacket",
+    "price": 24.99,
+    "color": "Black",
+    "imgUrl": "/imgs/Jacket1/Jacket1-1a.jpg",
+    "principalArticleImage": "yes",
+    "size": [
+      "S"
+    ]
+  },
+  {
+    "id": 2,
+    "articleId": 1,
+    "name": "Columbia Glennaker - Waterproof jacket",
+    "price": 24.99,
+    "color": "Black",
+    "imgUrl": "/imgs/Jacket1/Jacket1-1b.jpg",
+    "principalArticleImage": "no",
+    "size": [
+      "S"
+    ]
+  },
+  {
+    "id": 3,
+    "articleId": 2,
+    "name": "Columbia Glennaker - Waterproof jacket",
+    "price": 24.99,
+    "color": "Black/City Grey",
+    "imgUrl": "/imgs/Jacket1/Jacket1-2a.jpg",
+    "principalArticleImage": "yes",
+    "size": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": 4,
+    "articleId": 2,
+    "name": "Columbia Glennaker - Waterproof jacket",
+    "price": 24.99,
+    "color": "Black/City Grey",
+    "imgUrl": "/imgs/Jacket1/Jacket1-2b.jpg",
+    "principalArticleImage": "no",
+    "size": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": 5,
+    "articleId": 3,
+    "name": "Columbia Glennaker - Waterproof jacket",
+    "price": 24.99,
+    "color": "Bright Aqua/Collegiate Navy",
+    "imgUrl": "/imgs/Jacket1/Jacket1-3a.jpg",
+    "principalArticleImage": "yes",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": 6,
+    "articleId": 3,
+    "name": "Columbia Glennaker - Waterproof jacket",
+    "price": 24.99,
+    "color": "Bright Aqua/Collegiate Navy",
+    "imgUrl": "/imgs/Jacket1/Jacket1-3b.jpg",
+    "principalArticleImage": "no",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": 7,
+    "articleId": 4,
+    "name": "Van Heusen Flex Stretch Suit Jacket",
+    "price": 50.00,
+    "color": "Black",
+    "imgUrl": "/imgs/Jacket2/Jacket2-1a.jpg",
+    "principalArticleImage": "yes",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 8,
+    "articleId": 4,
+    "name": "Van Heusen Flex Stretch Suit Jacket",
+    "price": 50.00,
+    "color": "Black",
+    "imgUrl": "/imgs/Jacket2/Jacket2-2a.jpg",
+    "principalArticleImage": "no",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 9,
+    "articleId": 5,
+    "name": "Van Heusen Flex Stretch Suit Jacket",
+    "price": 50.00,
+    "color": "Oxford Grey",
+    "imgUrl": "/imgs/Jacket2/Jacket2-1b.jpg",
+    "principalArticleImage": "yes",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XLL"
+    ]
+  },
+  {
+    "id": 10,
+    "articleId": 5,
+    "name": "Van Heusen Flex Stretch Suit Jacket",
+    "price": 50.00,
+    "color": "Oxford Grey",
+    "imgUrl": "/imgs/Jacket2/Jacket2-2b.jpg",
+    "principalArticleImage": "no",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XLL"
+    ]
+  },
+  {
+    "id": 11,
+    "articleId": 6,
+    "name": "Van Heusen Flex Stretch Suit Jacket",
+    "price": 50.00,
+    "color": "Blue Bank",
+    "imgUrl": "/imgs/Jacket2/Jacket2-1c.jpg",
+    "principalArticleImage": "yes",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 12,
+    "articleId": 6,
+    "name": "Van Heusen Flex Stretch Suit Jacket",
+    "price": 50.00,
+    "color": "Blue Bank",
+    "imgUrl": "/imgs/Jacket2/Jacket2-2c.jpg",
+    "principalArticleImage": "no",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 13,
+    "articleId": 7,
+    "name": "Under Armour baseball pants",
+    "price": 17.64,
+    "color": "White",
+    "imgUrl": "/imgs/Pants1/Pants1-1a.jpg",
+    "principalArticleImage": "yes",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": 14,
+    "articleId": 7,
+    "name": "Under Armour baseball pants",
+    "price": 17.64,
+    "color": "White",
+    "imgUrl": "/imgs/Pants1/Pants1-2a.jpg",
+    "principalArticleImage": "no",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": 15,
+    "articleId": 8,
+    "name": "Under Armour baseball pants",
+    "price": 17.64,
+    "color": "Black",
+    "imgUrl": "/imgs/Pants1/Pants1-1b.jpg",
+    "principalArticleImage": "yes",
+    "size": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": 16,
+    "articleId": 8,
+    "name": "Under Armour baseball pants",
+    "price": 17.64,
+    "color": "Black",
+    "imgUrl": "/imgs/Pants1/Pants1-2b.jpg",
+    "principalArticleImage": "no",
+    "size": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": 17,
+    "articleId": 9,
+    "name": "Under Armour baseball pants",
+    "price": 17.64,
+    "color": "Aluminum",
+    "imgUrl": "/imgs/Pants1/Pants1-1c.jpg",
+    "principalArticleImage": "yes",
+    "size": [
+      "S"
+    ]
+  },
+  {
+    "id": 18,
+    "articleId": 9,
+    "name": "Under Armour baseball pants",
+    "price": 17.64,
+    "color": "Aluminum",
+    "imgUrl": "/imgs/Pants1/Pants1-2c.jpg",
+    "principalArticleImage": "no",
+    "size": [
+      "S"
+    ]
+  },
+  {
+    "id": 19,
+    "articleId": 10,
+    "name": "Under Armour UA Waffle Henley Long Sleeve Men's Shirt",
+    "price": 31.67,
+    "color": "Academy/White - 408",
+    "imgUrl": "/imgs/Shirt1/Shirt1-1a.jpg",
+    "principalArticleImage": "yes",
+    "size": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": 20,
+    "articleId": 10,
+    "name": "Under Armour UA Waffle Henley Long Sleeve Men's Shirt",
+    "price": 31.67,
+    "color": "Academy/White - 408",
+    "imgUrl": "/imgs/Shirt1/Shirt1-2a.jpg",
+    "principalArticleImage": "no",
+    "size": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": 21,
+    "articleId": 11,
+    "name": "Under Armour UA Waffle Henley Long Sleeve Men's Shirt",
+    "price": 31.67,
+    "color": "Baroque Green / Black-310",
+    "imgUrl": "/imgs/Shirt1/Shirt1-1b.jpg",
+    "principalArticleImage": "yes",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": 22,
+    "articleId": 11,
+    "name": "Under Armour UA Waffle Henley Long Sleeve Men's Shirt",
+    "price": 31.67,
+    "color": "Baroque Green / Black-310",
+    "imgUrl": "/imgs/Shirt1/Shirt1-2b.jpg",
+    "principalArticleImage": "no",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": 23,
+    "articleId": 12,
+    "name": "Under Armour UA Waffle Henley Long Sleeve Men's Shirt",
+    "price": 31.67,
+    "color": "Mod Gray / Black - 011",
+    "imgUrl": "/imgs/Shirt1/Shirt1-1c.jpg",
+    "principalArticleImage": "yes",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 24,
+    "articleId": 12,
+    "name": "Under Armour UA Waffle Henley Long Sleeve Men's Shirt",
+    "price": 31.67,
+    "color": "Mod Gray / Black - 011",
+    "imgUrl": "/imgs/Shirt1/Shirt1-2c.jpg",
+    "principalArticleImage": "no",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  }
+]
