@@ -1,0 +1,11 @@
+html {
+    overflow-x: hidden;
+}
+
+.links {
+    text-decoration: none;
+}
+
+input:focus {
+    outline: none;
+}

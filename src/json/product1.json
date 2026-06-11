@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "articleId": 1,
+        "name": "Columbia Glennaker - Waterproof jacket",
+        "price": 24.99,
+        "color": "Black",
+        "imgUrl": "/imgs/Jacket1/Jacket1-1a.jpg",
+        "principalArticleImage": "yes",
+        "size": [
+            "S"
+        ]
+    },
+    {
+        "id": 2,
+        "articleId": 1,
+        "name": "Columbia Glennaker - Waterproof jacket",
+        "price": 24.99,
+        "color": "Black",
+        "imgUrl": "/imgs/Jacket1/Jacket1-1b.jpg",
+        "principalArticleImage": "no",
+        "size": [
+            "S"
+        ]
+    },
+    {
+        "id": 3,
+        "articleId": 2,
+        "name": "Columbia Glennaker - Waterproof jacket",
+        "price": 24.99,
+        "color": "Black/City Grey",
+        "imgUrl": "/imgs/Jacket1/Jacket1-2a.jpg",
+        "principalArticleImage": "yes",
+        "size": [
+            "S",
+            "M"
+        ]
+    },
+    {
+        "id": 4,
+        "articleId": 2,
+        "name": "Columbia Glennaker - Waterproof jacket",
+        "price": 24.99,
+        "color": "Black/City Grey",
+        "imgUrl": "/imgs/Jacket1/Jacket1-2b.jpg",
+        "principalArticleImage": "no",
+        "size": [
+            "S",
+            "M"
+        ]
+    },
+    {
+        "id": 5,
+        "articleId": 3,
+        "name": "Columbia Glennaker - Waterproof jacket",
+        "price": 24.99,
+        "color": "Bright Aqua/Collegiate Navy",
+        "imgUrl": "/imgs/Jacket1/Jacket1-3a.jpg",
+        "principalArticleImage": "yes",
+        "size": [
+            "S",
+            "M",
+            "L"
+        ]
+    },
+    {
+        "id": 6,
+        "articleId": 3,
+        "name": "Columbia Glennaker - Waterproof jacket",
+        "price": 24.99,
+        "color": "Bright Aqua/Collegiate Navy",
+        "imgUrl": "/imgs/Jacket1/Jacket1-3b.jpg",
+        "principalArticleImage": "no",
+        "size": [
+            "S",
+            "M",
+            "L"
+        ]
+    }
+]

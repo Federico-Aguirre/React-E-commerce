@@ -1,0 +1,80 @@
+[
+    {
+        "id": 13,
+        "articleId": 7,
+        "name": "Under Armour baseball pants",
+        "price": 17.64,
+        "color": "White",
+        "imgUrl": "/imgs/Pants1/Pants1-1a.jpg",
+        "principalArticleImage": "yes",
+        "size": [
+            "S",
+            "M",
+            "L"
+        ]
+    },
+    {
+        "id": 14,
+        "articleId": 7,
+        "name": "Under Armour baseball pants",
+        "price": 17.64,
+        "color": "White",
+        "imgUrl": "/imgs/Pants1/Pants1-2a.jpg",
+        "principalArticleImage": "no",
+        "size": [
+            "S",
+            "M",
+            "L"
+        ]
+    },
+    {
+        "id": 15,
+        "articleId": 8,
+        "name": "Under Armour baseball pants",
+        "price": 17.64,
+        "color": "Black",
+        "imgUrl": "/imgs/Pants1/Pants1-1b.jpg",
+        "principalArticleImage": "yes",
+        "size": [
+            "S",
+            "M"
+        ]
+    },
+    {
+        "id": 16,
+        "articleId": 8,
+        "name": "Under Armour baseball pants",
+        "price": 17.64,
+        "color": "Black",
+        "imgUrl": "/imgs/Pants1/Pants1-2b.jpg",
+        "principalArticleImage": "no",
+        "size": [
+            "S",
+            "M"
+        ]
+    },
+    {
+        "id": 17,
+        "articleId": 9,
+        "name": "Under Armour baseball pants",
+        "price": 17.64,
+        "color": "Aluminum",
+        "imgUrl": "/imgs/Pants1/Pants1-1c.jpg",
+        "principalArticleImage": "yes",
+        "size": [
+            "S"
+        ]
+    },
+    {
+        "id": 18,
+        "articleId": 9,
+        "name": "Under Armour baseball pants",
+        "price": 17.64,
+        "color": "Aluminum",
+        "imgUrl": "/imgs/Pants1/Pants1-2c.jpg",
+        "principalArticleImage": "no",
+        "size": [
+            "S"
+        ]
+    }
+]

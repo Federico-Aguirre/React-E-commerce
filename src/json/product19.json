@@ -1,0 +1,86 @@
+[
+    {
+        "id": 19,
+        "articleId": 10,
+        "name": "Under Armour UA Waffle Henley Long Sleeve Men's Shirt",
+        "price": 31.67,
+        "color": "Academy/White - 408",
+        "imgUrl": "/imgs/Shirt1/Shirt1-1a.jpg",
+        "principalArticleImage": "yes",
+        "size": [
+            "S",
+            "M"
+        ]
+    },
+    {
+        "id": 20,
+        "articleId": 10,
+        "name": "Under Armour UA Waffle Henley Long Sleeve Men's Shirt",
+        "price": 31.67,
+        "color": "Academy/White - 408",
+        "imgUrl": "/imgs/Shirt1/Shirt1-2a.jpg",
+        "principalArticleImage": "no",
+        "size": [
+            "S",
+            "M"
+        ]
+    },
+    {
+        "id": 21,
+        "articleId": 11,
+        "name": "Under Armour UA Waffle Henley Long Sleeve Men's Shirt",
+        "price": 31.67,
+        "color": "Baroque Green / Black-310",
+        "imgUrl": "/imgs/Shirt1/Shirt1-1b.jpg",
+        "principalArticleImage": "yes",
+        "size": [
+            "S",
+            "M",
+            "L"
+        ]
+    },
+    {
+        "id": 22,
+        "articleId": 11,
+        "name": "Under Armour UA Waffle Henley Long Sleeve Men's Shirt",
+        "price": 31.67,
+        "color": "Baroque Green / Black-310",
+        "imgUrl": "/imgs/Shirt1/Shirt1-2b.jpg",
+        "principalArticleImage": "no",
+        "size": [
+            "S",
+            "M",
+            "L"
+        ]
+    },
+    {
+        "id": 23,
+        "articleId": 12,
+        "name": "Under Armour UA Waffle Henley Long Sleeve Men's Shirt",
+        "price": 31.67,
+        "color": "Mod Gray / Black - 011",
+        "imgUrl": "/imgs/Shirt1/Shirt1-1c.jpg",
+        "principalArticleImage": "yes",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ]
+    },
+    {
+        "id": 24,
+        "articleId": 12,
+        "name": "Under Armour UA Waffle Henley Long Sleeve Men's Shirt",
+        "price": 31.67,
+        "color": "Mod Gray / Black - 011",
+        "imgUrl": "/imgs/Shirt1/Shirt1-2c.jpg",
+        "principalArticleImage": "no",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ]
+    }
+]
